@@ -1,7 +1,0 @@
-菜单制作使用到了JMenuBar方法，
-其中把功能分为几个部分，比如开始，设置，关于我们等等，这一类是JMenu
-细分到每个条目下的功能是JMenuItem功能
-所以，要先创造JMenuBar，再创建JMenu，最后创建JMenuItem
-
-
-

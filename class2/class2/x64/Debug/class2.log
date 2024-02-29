@@ -1,0 +1,5 @@
+﻿  text.c
+G:\code\vstudio\bit\class2\text.c(10,9): warning C4477: “printf”: 格式字符串“%#x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
+G:\code\vstudio\bit\class2\text.c(10,9): warning C4313: "printf": 格式字符串中的 "%x" 与类型为 "char *" 的参数 1 冲突
+G:\code\vstudio\bit\class2\text.c(12,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  class2.vcxproj -> G:\code\vstudio\bit\class2\x64\Debug\class2.exe
