@@ -13,7 +13,10 @@ int main() {
 
 	printf("%d\n", length);
 
-	
+	printf("absdc\\0 \n");
+
+	printf("%c\n", '130');
+
 	return 0;
 
 }
