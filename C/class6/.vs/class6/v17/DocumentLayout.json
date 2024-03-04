@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "G:\\code\\vstudio\\bit\\class6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24D52F15-0562-43BA-A089-678C30AB755B}|class6.vcxproj|G:\\code\\vstudio\\bit\\class6\\note.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{24D52F15-0562-43BA-A089-678C30AB755B}|class6.vcxproj|solutionrelative:note.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{24D52F15-0562-43BA-A089-678C30AB755B}|class6.vcxproj|G:\\code\\vstudio\\bit\\class6\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{24D52F15-0562-43BA-A089-678C30AB755B}|class6.vcxproj|solutionrelative:test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D52F15-0562-43BA-A089-678C30AB755B}|class6.vcxproj|G:\\code\\vstudio\\bit\\class6\\note.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{24D52F15-0562-43BA-A089-678C30AB755B}|class6.vcxproj|solutionrelative:note.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "note.md",
               "DocumentMoniker": "G:\\code\\vstudio\\bit\\class6\\note.md",
               "RelativeDocumentMoniker": "note.md",
               "ToolTip": "G:\\code\\vstudio\\bit\\class6\\note.md",
               "RelativeToolTip": "note.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-03-03T01:51:30.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "test.c",
               "DocumentMoniker": "G:\\code\\vstudio\\bit\\class6\\test.c",
               "RelativeDocumentMoniker": "test.c",
               "ToolTip": "G:\\code\\vstudio\\bit\\class6\\test.c",
               "RelativeToolTip": "test.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-03-03T01:51:22.58Z",
               "EditorCaption": ""
