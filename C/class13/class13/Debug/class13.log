@@ -1,0 +1,6 @@
+﻿  test.c
+G:\code\vstudio\bit\class13\test.c(10,20): warning C4013: “malloc”未定义；假设外部返回 int
+G:\code\vstudio\bit\class13\test.c(26,2): warning C4013: “free”未定义；假设外部返回 int
+G:\code\vstudio\bit\class13\test.c(30,20): warning C4013: “calloc”未定义；假设外部返回 int
+G:\code\vstudio\bit\class13\test.c(42,21): warning C4013: “realloc”未定义；假设外部返回 int
+  class13.vcxproj -> G:\code\vstudio\bit\class13\Debug\class13.exe
