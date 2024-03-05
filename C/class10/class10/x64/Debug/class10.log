@@ -1,0 +1,4 @@
+﻿  test.c
+G:\code\vstudio\bit\class10\test.c(59,34): warning C4047: “-”:“char *”与“char (*)[7]”的间接级别不同
+G:\code\vstudio\bit\class10\test.c(59,40): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  class10.vcxproj -> G:\code\vstudio\bit\class10\x64\Debug\class10.exe
